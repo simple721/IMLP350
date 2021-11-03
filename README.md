@@ -1,2 +1,2 @@
 # IMLP350
-IMLP courous
+IMLP course
